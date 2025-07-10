@@ -22,9 +22,10 @@ This repository is a daily log of my learning process, containing notebooks, scr
 | ✅ Decorators & Namespaces | Function decorators, global/local scopes, closures |
 
 ---
-
 ## 📂 Repository Structure
 
+
+```text
 python_journey/
 ├── fundamentals/
 ├── control_flow/
@@ -45,7 +46,7 @@ python_journey/
 - [x] Completed core Python syntax and concepts  
 - [x] Solved beginner to intermediate practice problems  
 - [x] Built real examples for each topic  
-- [ ] [Optional] Working on mini-projects with Python  
+
 
 ---
 
