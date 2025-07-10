@@ -37,8 +37,7 @@ python_journey/
 ├── serialization/
 ├── exceptions/
 └── decorators/
-
-
+```
 ---
 
 ## 📈 Progress Tracker
